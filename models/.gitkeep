@@ -1,0 +1,7 @@
+# This directory stores trained model artifacts.
+# After training, you will find:
+#   - lstm_wqi_model.keras  (saved Keras model)
+#   - scaler.pkl            (fitted MinMaxScaler)
+#   - training_history.png  (loss curve)
+#   - predictions_vs_actual.png
+#   - confusion_matrix.png

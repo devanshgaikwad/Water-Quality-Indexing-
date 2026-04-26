@@ -1,0 +1,2 @@
+# This directory stores the generated/downloaded dataset CSV files.
+# water_quality.csv will appear here after running: python src/generate_data.py
